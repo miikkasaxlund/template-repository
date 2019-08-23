@@ -1,6 +1,7 @@
 # Project Title
 
 <!-- Generate badges with https://shields.io/ -->
+![GitHub package.json version](https://img.shields.io/github/package-json/v/miikkasaxlund/template-repository)
 [![JavaScript Style Guide](https://img.shields.io/badge/code_style-standard-brightgreen.svg)](https://standardjs.com)
 
 One to two paragraph statement about your product and what it does.
@@ -62,7 +63,7 @@ Link to the contributors tab
 
 ## License
 
-
+![GitHub](https://img.shields.io/github/license/miikkasaxlund/template-repository)
 
 ## Contact
 
