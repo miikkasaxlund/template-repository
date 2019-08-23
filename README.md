@@ -1,9 +1,7 @@
 # Project Title
 
 <!-- Generate badges with https://shields.io/ -->
-[![version][version-badge]][CHANGELOG]
 [![JavaScript Style Guide](https://img.shields.io/badge/code_style-standard-brightgreen.svg)](https://standardjs.com)
-[![Downloads Stats][npm-downloads]][npm-url]
 
 One to two paragraph statement about your product and what it does.
 
@@ -64,7 +62,7 @@ Link to the contributors tab
 
 ## License
 
-[![license][license-badge]][LICENSE]
+
 
 ## Contact
 
